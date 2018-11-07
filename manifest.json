@@ -1,0 +1,8 @@
+{
+  "short_name": "Fjordstudio Blog",
+	"name": "Fjordstudio Blog - art, writing, musings",
+  "start_url": "http://blog.fjordstudio.dk",
+  "display": "standalone",
+  "background_color": "#f3d1e8",
+  "theme_color": "#ffdead"
+}
