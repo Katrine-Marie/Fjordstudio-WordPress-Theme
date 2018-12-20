@@ -248,10 +248,10 @@ textarea {
    color: #aaa;
 }
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #aaa;  
+   color: #aaa;
 }
-:-ms-input-placeholder {  
-   color: #aaa;  
+:-ms-input-placeholder {
+   color: #aaa;
 }
 
 .widget_search .search-form {
@@ -555,18 +555,18 @@ textarea {
 	.main-navigation li {
 		float:none;
 	}
-	
+
 	.main-navigation ul ul {
 		border:none;
 		float: none;
 		position: static;
 		display:block;
 	}
-	
+
 	.main-navigation ul ul li + li {
 		border-top:none;
 	}
-	
+
 	.main-navigation .sub-menu {
 		box-shadow:none;
 		margin-left:24px;
@@ -693,7 +693,7 @@ textarea {
 	margin:6px 24px 0 24px;
 	padding: 48px 24px 0 24px;
 	max-width:300px;
-	
+
 	position:absolute;
 	right:-32px;
 	top:0;
@@ -827,10 +827,14 @@ textarea {
 	.featured-img:first-child img {
 		padding-top:12px;
 	}
-	
+
 	.single .featured-img {
 		background:none;
 		padding-bottom:24px;
+	}
+
+	.site-content {
+		padding-top:80px;
 	}
 }
 
@@ -956,7 +960,7 @@ embed, iframe, object {
 	.gallery {
 		flex-direction:column;
 	}
-	
+
 	.gallery-columns-2 .gallery-item,
 	.gallery-columns-3 .gallery-item,
 	.gallery-columns-4 .gallery-item,
