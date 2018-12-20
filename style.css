@@ -722,6 +722,7 @@ textarea {
 }
 .author-intro img {
 	max-width:200px;
+	border-radius:78% 22% 20% 80% / 62% 35% 65% 38%;
 }
 
 @media only screen and (max-width:960px){
